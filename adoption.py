@@ -26,4 +26,4 @@ Tabitha = Pet("Tabitha", "Cat")
 Tabitha.add_pets(1, "Tabitha", "cat")
 # print(f"Your new pet {self.name} the {self.breed} is going to be so happy")
 
-    
+
